@@ -1,0 +1,11 @@
+@tailwind base;
+
+@layer base{
+    body{
+        @apply transition-colors duration-200;
+    }
+}
+
+@tailwind components;
+@tailwind utilities;
+

@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "What is Lorem Ipsum?",
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. ",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Why do we use it?",
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. ",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "Where does it come from?",
+      "details": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. ",
+      "complete": false
+    },
+    {
+      "id": 4,
+      "title": "Where can I get some?",
+      "details": "Woww that amazing! There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "complete": true
+    },
+    {
+      "title": "Follow me on Twitter/@_ebuzeyd",
+      "details": "A guide to configuring and customizing your Tailwind installation. Because Tailwind is a framework for building bespoke user interfaces, it has been designed from the ground up with customization in mind. By default, Tailwind will look for an optional tailwind.config.js file at the root of your project where you can define any customizations.",
+      "complete": true,
+      "id": 5
+    }
+  ]
+}
